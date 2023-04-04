@@ -1,0 +1,68 @@
+.cursor-gif {
+    width: 110px;
+    transform: scaleX(-1) rotate(50deg)
+}
+
+.mushroom-gif {
+    width: 25px;
+    margin: 10px;
+}
+
+.button-send-email {
+    margin: 10px;
+}
+
+.text-principal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.text-principal h3 {
+    width: 80%;
+}
+
+.description-missionThree b{
+    background-color: aliceblue;
+    color: black;
+}
+
+.paste-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.link-calendar[name="missionThree"] {
+    width: 80%;
+}
+
+.notes-missionThree {
+    width: 70%;
+    outline: none;
+    padding-left: 10px;
+    overflow-y: none;
+    font-size: 10px;
+    padding-top: 15px;
+    margin: 10px;
+    border-radius: 50px;
+}
+
+.button-completed-mission {
+    font-family: 'Press Start 2P', cursive;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 5px 10px;
+    margin-top: 10px;
+}
+
+.button-completed-mission:active {
+    transition: .08s;
+    border: none;
+    transform: translateY(5px);
+    box-shadow: 0px 0px;
+    background-color: rgb(220, 227, 233);
+}

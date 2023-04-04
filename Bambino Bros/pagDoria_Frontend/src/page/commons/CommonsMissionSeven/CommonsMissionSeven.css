@@ -1,0 +1,55 @@
+.input-table {
+    font-size: 20px;
+    padding: 5px;
+    resize: none;
+    width: auto;
+    height: max-content;
+    border: none;
+    outline: none;
+}
+
+.table-results {
+    margin: 50px;
+    width: 100%;
+}
+
+.program-meet[name="missionSeven"] {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.select-table {
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.link-calendar[name="missionSeven"] {
+    width: 100%;
+    margin-bottom: -50px;
+}
+
+.from {
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+    width: 80%;
+    margin-bottom: -30px;
+}
+
+.text-from {
+    margin-right: 10px;
+}
+
+.audited-emails {
+    margin: 10px;
+    width: 80%;
+}
+
+.email-image {
+    width: 80px;
+}

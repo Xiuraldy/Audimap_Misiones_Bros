@@ -1,0 +1,16 @@
+.main-bosses-user {
+    height: 65vh;
+    padding: 15px;
+    border-radius: 20px;
+    WIDTH: -WEBKIT-FILL-AVAILABLE;
+}
+
+.modal-title {
+    width: 100%;
+    background-color: #3f51b5;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 0px;
+    border-radius: 20px 20px 0px 0px;
+}

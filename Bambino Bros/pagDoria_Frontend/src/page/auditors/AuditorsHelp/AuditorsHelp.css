@@ -1,0 +1,53 @@
+.content-helpers {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.content-help {
+    margin-top: 40px;
+}
+
+.content-help h4{
+    text-align: center;
+    font-weight: 100;
+    color: rgba(240, 248, 255, 0.363);
+}
+
+.helper {
+    margin: 10px;
+    border: 1px solid black;
+    height: fit-content;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+.helper:hover {
+    color: rgba(240, 248, 255, 0.164);
+    background-color: transparent;
+    border: 1px solid rgba(240, 248, 255, 0.363);
+    cursor: pointer;
+}
+
+.helper h1{
+    display: flex;
+    align-items: center;
+}
+
+.helper h1 img{
+    width: 100px;
+}
+
+.helper h3{
+    margin-bottom: 10px;
+    width: 100%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.button-contact-helper button{
+    cursor: pointer;
+    width: 100%;
+    height: 100px;
+}

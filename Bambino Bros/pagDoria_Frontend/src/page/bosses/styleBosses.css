@@ -1,0 +1,11 @@
+body {
+    background-image: url(../../assets/background/background-pc.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+    font-family: 'Press Start 2P', cursive;
+    position: relative;
+}
+

@@ -1,0 +1,6 @@
+.full-page-content {
+    margin-top: 215px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
